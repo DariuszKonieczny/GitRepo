@@ -1,0 +1,2 @@
+# GitRepo
+Ogólne
